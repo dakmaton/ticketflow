@@ -1,0 +1,14 @@
+# Local environment variables
+.env
+
+# Maven
+**/target/
+
+# IDE
+.metadata/
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
